@@ -35,3 +35,4 @@ precum și notebook-ul de conversie utilizat.
 | VRES-CNN | RAF-DB | 76.08% | 
 
 
+<img width="922" height="431" alt="Screenshot 2026-11-24 230932" src="https://github.com/user-attachments/assets/6738c267-c784-489b-96c3-b042b7ad2c3c" />
